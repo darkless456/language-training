@@ -1,5 +1,7 @@
 # language_training
 
+## Part 1
+
 * I work for a medical charity.
 * In my job, I often deal with fundraising projects and advertising campaigns.
 * I am currently running a campaign to raise over a million euros.
@@ -9,13 +11,19 @@
 * These days more and more people are reading text and watching video online.
 * I don't know enough about online marketing.
 
+## Part 2
+
 * I'm looking for a job at the moment
 * I don't use English for my job
 * I'm not using the photocopier at the moment
 
+## Part 3
+
 * I'm selling my house
 * I (usually) sell IT products to companies in Asia (not right now)
 * I'm selling IT products to companies in Asia at these days
+
+## Part 4
 
 * I agree with you on this issue.
 * Their baby _were_ born last December.
@@ -27,6 +35,8 @@
 * I _am_ sorry you had such a difficult journey.
 * When we heard the news, we _were_ very surprised.
 
+## Part 5
+
 * Don’t be _afraid_ to say what you think.
 * Most experts _agree_ that this is the best solution.
 * I’m sorry I’m _late_ for the meeting. I was stuck in traffic.
@@ -37,12 +47,16 @@
 * She was _born_ in a small town in the north of the country.
 * I’m not _surprised_ that he didn’t keep his promise – you can’t trust him!
 
+## Part 6
+
 * I was very surprised when _________.
 * In my job, I’m responsible for _________.
 * When I’m ill, I _________.
 * Once, I was very late for _________, and as a result _________.
 * I was born in _________.
 * Most experts agree that _________.
+
+## Part 7
 
 * Why _were_ you late for the daily yesterday? I think the team lead wasn’t very happy about that.
 * _Did_ you apologize to the customer for missing the deadline? What did he say?
@@ -53,6 +67,8 @@
 * What _were_ you responsible for on your previous project / in your previous job?
 * _Were_ you surprised when you learned your result after your last language assessment?
 * I’m only 25 years old, so I _was_ born in the USSR.
+
+## Part 8
 
 * _Is that right?_ My company works with pharmaceutical companies, too.
 * _Really?_ How often do you travel there?
