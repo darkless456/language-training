@@ -1,4 +1,4 @@
-# language_training
+# LANGUAGE_TRAINING
 
 ## Part 1
 
