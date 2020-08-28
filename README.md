@@ -9,13 +9,13 @@
 7. These days more and more people are reading text and watching video online.
 8. I don't know enough about online marketing.
 
-I'm looking for a job at the moment
-I don't use English for my job
-I'm not using the photocopier at the moment
+* I'm looking for a job at the moment
+* I don't use English for my job
+* I'm not using the photocopier at the moment
 
-I'm selling my house
-I (usually) sell IT products to companies in Asia (not right now)
-I'm selling IT products to companies in Asia at these days
+* I'm selling my house
+* I (usually) sell IT products to companies in Asia (not right now)
+* I'm selling IT products to companies in Asia at these days
 
 I ______ agree with you on this issue.
 Their baby _were_ born last December.
