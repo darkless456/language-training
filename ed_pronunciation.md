@@ -1,4 +1,4 @@
-# -ED Pronunciation
+# ED Pronunciation
 
 ## [t]
 
