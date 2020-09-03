@@ -95,7 +95,7 @@
 ------
 
 * Ark: Oh, I’ve never told you. I got promoted last month.
-* Larry: Did you?
+* Larry: Did you? You lucky thing.
 
 ------
 
