@@ -73,3 +73,33 @@
 * _Is that right?_ My company works with pharmaceutical companies, too.
 * _Really?_ How often do you travel there?
 * _That sounds interesting._ It would be good to keep in contact.
+
+## Part 9
+
+* Congratulations!
+* That's fantastic(great) news!
+* That's a shame(pity).
+* That's awful.
+* You lucky thing!
+* That's terrible.
+* Well done!
+* I'm so pleased(proud) for you!
+* That's really annoying.
+* That's awful. I'm really sorry to hear that.
+
+### Part 10
+
+* Ark: I spoke to Jennifer last week.
+* Larry: Jennifer! I haven’t seen her for ages.
+
+* Ark: Oh, I’ve never told you. I got promoted last month.
+* Larry: Did you?
+
+* Ark: Their share price has fallen 20% over the last month.
+* Larry: 20%? That's bad news.
+
+* Ark: It was their most effective advertising campaign ever.
+* Larry: Really? Was it?
+
+* Ark: I can’t make it tomorrow – my little boy has the flu.
+* Larry: I'm sorry to hear that. Never mind. Another day.
