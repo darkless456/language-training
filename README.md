@@ -89,17 +89,25 @@
 
 ### Part 10
 
-> Ark: I spoke to Jennifer last week.
-> Larry: Jennifer! I haven’t seen her for ages.
+* Ark: I spoke to Jennifer last week.
+* Larry: Jennifer! I haven’t seen her for ages.
+
 ------
-> Ark: Oh, I’ve never told you. I got promoted last month.
-> Larry: Did you?
+
+* Ark: Oh, I’ve never told you. I got promoted last month.
+* Larry: Did you?
+
 ------
-> Ark: Their share price has fallen 20% over the last month.
-> Larry: 20%? That's bad news.
+
+* Ark: Their share price has fallen 20% over the last month.
+* Larry: 20%? That's bad news.
+
 ------
-> Ark: It was their most effective advertising campaign ever.
-> Larry: Really? Was it?
+
+* Ark: It was their most effective advertising campaign ever.
+* Larry: Really? Was it?
+
 ------
-> Ark: I can’t make it tomorrow – my little boy has the flu.
-> Larry: I'm sorry to hear that. Never mind. Another day.
+
+* Ark: I can’t make it tomorrow – my little boy has the flu.
+* Larry: I'm sorry to hear that. Never mind. Another day.
