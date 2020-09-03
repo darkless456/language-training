@@ -89,8 +89,8 @@
 
 ### Part 10
 
-* Ark: I spoke to Jennifer last week.
-  * Larry: Jennifer! I haven’t seen her for ages.
+> * Ark: I spoke to Jennifer last week.
+>   * Larry: Jennifer! I haven’t seen her for ages.
 
 * Ark: Oh, I’ve never told you. I got promoted last month.
   * Larry: Did you?
