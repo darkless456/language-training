@@ -2,7 +2,7 @@
 
 ## [t]
 
-> walk /wɔk/
+> walk /wɔk/\
   walked/wɔkt/
 
 ### End with [p, f, θ, s, tʃ, ʃ, k]
@@ -15,7 +15,7 @@
 
 ## [d]
 
-> smell [smɛl] 
+> smell [smɛl]\
   smelled [smɛld]
 
 ### End with [b, g, ð, v, z, ʒ, dʒ, n, m, l, r]
@@ -31,7 +31,7 @@
 
 ## [id]
 
-> visit ['vɪzɪt]
+> visit ['vɪzɪt]\
   visited ['vɪzɪtɪd]
 
 ### End with [t, d]
