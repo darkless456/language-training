@@ -111,3 +111,21 @@
 
 * Ark: I can’t make it tomorrow – my little boy has the flu.
 * Larry: I'm sorry to hear that. Never mind. Another day.
+
+## Part 11
+
+* an official rate of pay according to the law - _statutory pay_
+* a system of working a particular number of hours each week or month but choosing when you start and finish - _flexitime_
+* time when you are officially allowed not to be at work - _all kinds of leave_
+* all your normal salary - _full pay_
+* time at work in addition to your normal hours - _overtime_
+* time off for men to spend time with a new baby - _paternity leave_
+* time off for women to spend time with a new baby - _maternity leave_
+* time off with no money - _unpaid leave_
+* not working in your office but at your house/apartment - _home-working_
+* the time in the middle of the day when people at work stop working to eat lunch - _lunch break_
+* extra days off - _additional leave_
+* time allowed away from work for holiday during which you receive your normal pay - _annual leave_
+* the time when you always have to work - _core hours_
+
+## Part 12
