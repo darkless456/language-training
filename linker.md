@@ -13,7 +13,9 @@
 * He said he had not discussed the matter with her. _Furthermore_, he had not even contacted her.
 * Learning another programming language _not only_ improves your job prospects, _but also_ boosts their self-esteem.
 * _Another reason_ for choosing this tool is its reliability.
+
 ---
+
 * And I actually think the Korean version of this graphic is pretty cool looking. I think the Japanese one looks pretty cool _as well_.
 * A lot of start-ups fail because they just don't have any idea about sales and marketing, _and what's more_, they almost don't want to learn about it.
 * This year's survey is available in Japanese and simplified and traditional Chinese _as well as_ English.
