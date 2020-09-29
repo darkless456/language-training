@@ -43,3 +43,14 @@
 `already / lately / just`
 
 `since / for`
+
+## Practices
+
+* On my last project __......__.
+* I have never had a project which __......__.
+* I have already __......__. on my current project
+* I haven’t __......__. on my current project yet
+* I haven't __......__ on my current project so far
+* Last week we finished __......__.
+* Yesterday our team __......__.
+* Today we have already __......__.

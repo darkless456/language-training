@@ -7,7 +7,8 @@
 
 ### End with [p, f, θ, s, tʃ, ʃ, k]
 
-> __p__ helped / __k__ looked / __sh__ washed / __ch__ watched / __gh__ laughed / __th__ breathed / __ss__ kissed / __x__ fixed / __c__ danced
+> __p__ helped / __k__ looked / __x__ fixed / __c__ danced
+> __sh__ washed / __ch__ watched / __gh__ laughed / __th__ breathed / __ss__ kissed
 
 * Popped→He popped a balloon.
 * Talked→They talked a lot.
