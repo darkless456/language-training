@@ -2,9 +2,6 @@
 
 ## [t]
 
-> walk /wɔk/\
-  walked/wɔkt/
-
 ### End with [p, f, θ, s, tʃ, ʃ, k]
 
 > __p__ helped / __k__ looked / __x__ fixed / __c__ danced
@@ -17,9 +14,6 @@
 * Reached→I reached around for it.
 
 ## [d]
-
-> smell [smɛl]\
-  smelled [smɛld]
 
 ### End with [b, g, ð, v, z, ʒ, dʒ, n, m, l, r]
 
@@ -35,9 +29,6 @@
 * Rolled→I rolled up the paper.
 
 ## [id]
-
-> visit ['vɪzɪt]\
-  visited ['vɪzɪtɪd]
 
 ### End with [t, d]
 
